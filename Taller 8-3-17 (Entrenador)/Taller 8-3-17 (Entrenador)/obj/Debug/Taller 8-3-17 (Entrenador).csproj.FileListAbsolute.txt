@@ -1,0 +1,18 @@
+C:\Users\Johnny\Desktop\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\bin\Debug\Taller 8-3-17 (Entrenador).exe.config
+C:\Users\Johnny\Desktop\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\bin\Debug\Taller 8-3-17 (Entrenador).exe
+C:\Users\Johnny\Desktop\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\bin\Debug\Taller 8-3-17 (Entrenador).pdb
+C:\Users\Johnny\Desktop\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\obj\Debug\Taller 8-3-17 (Entrenador).csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\obj\Debug\Taller_8_3_17__Entrenador_.Form1.resources
+C:\Users\Johnny\Desktop\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\obj\Debug\Taller_8_3_17__Entrenador_.Properties.Resources.resources
+C:\Users\Johnny\Desktop\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\obj\Debug\Taller 8-3-17 (Entrenador).csproj.GenerateResource.Cache
+C:\Users\Johnny\Desktop\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\obj\Debug\Taller 8-3-17 (Entrenador).exe
+C:\Users\Johnny\Desktop\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\obj\Debug\Taller 8-3-17 (Entrenador).pdb
+C:\Users\Johnny\Desktop\Carpetas y demas\Universidad\UniNorte\Tercer Semestre\Programacion orientada a Objetos\Taller Diseño\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\bin\Debug\Taller 8-3-17 (Entrenador).exe.config
+C:\Users\Johnny\Desktop\Carpetas y demas\Universidad\UniNorte\Tercer Semestre\Programacion orientada a Objetos\Taller Diseño\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\obj\Debug\Taller 8-3-17 (Entrenador).exe
+C:\Users\Johnny\Desktop\Carpetas y demas\Universidad\UniNorte\Tercer Semestre\Programacion orientada a Objetos\Taller Diseño\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\obj\Debug\Taller 8-3-17 (Entrenador).pdb
+C:\Users\Johnny\Desktop\Carpetas y demas\Universidad\UniNorte\Tercer Semestre\Programacion orientada a Objetos\Taller Diseño\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\bin\Debug\Taller 8-3-17 (Entrenador).exe
+C:\Users\Johnny\Desktop\Carpetas y demas\Universidad\UniNorte\Tercer Semestre\Programacion orientada a Objetos\Taller Diseño\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\bin\Debug\Taller 8-3-17 (Entrenador).pdb
+C:\Users\Johnny\Desktop\Carpetas y demas\Universidad\UniNorte\Tercer Semestre\Programacion orientada a Objetos\Taller Diseño\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\obj\Debug\Taller 8-3-17 (Entrenador).csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\Carpetas y demas\Universidad\UniNorte\Tercer Semestre\Programacion orientada a Objetos\Taller Diseño\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\obj\Debug\Taller_8_3_17__Entrenador_.Form1.resources
+C:\Users\Johnny\Desktop\Carpetas y demas\Universidad\UniNorte\Tercer Semestre\Programacion orientada a Objetos\Taller Diseño\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\obj\Debug\Taller_8_3_17__Entrenador_.Properties.Resources.resources
+C:\Users\Johnny\Desktop\Carpetas y demas\Universidad\UniNorte\Tercer Semestre\Programacion orientada a Objetos\Taller Diseño\Taller 8-3-17 (Entrenador)\Taller 8-3-17 (Entrenador)\obj\Debug\Taller 8-3-17 (Entrenador).csproj.GenerateResource.Cache
